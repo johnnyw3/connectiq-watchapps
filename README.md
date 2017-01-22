@@ -1,6 +1,8 @@
 # connectiq-watchapps
 My Things For Garmin Connect IQ
 
+All Software is open source (duh!) so, feel free to do whatever with the code!
+
 
 #View Time In 15 Minute Segments
 Sometimes, when you are doing a workout with a club, or team, you don't want to be looking at your watch every 30 seconds. This data field is designed to discourage looking at your watch too much, by providing enough info that you need to be informed, but not get too specific.
