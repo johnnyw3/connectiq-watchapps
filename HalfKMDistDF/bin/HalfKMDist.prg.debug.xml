@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="8" pc="268435478" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="9" pc="268435511" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="10" pc="268435519" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="13" pc="268435535" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="19" pc="268435549" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="21" pc="268435553" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="22" pc="268435560" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="23" pc="268435573" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="26" pc="268435583" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="28" pc="268435593" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="29" pc="268435603" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistView.mc" lineNum="31" pc="268435613" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistApp.mc" lineNum="5" pc="268435617" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistApp.mc" lineNum="6" pc="268435621" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistApp.mc" lineNum="10" pc="268435640" symbol="onStart"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistApp.mc" lineNum="14" pc="268435645" symbol="onStop"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistApp.mc" lineNum="18" pc="268435650" symbol="getInitialView"/>
+<entry filename="/Users/johnnyw/Documents/workspace/HalfKMDist/source/HalfKMDistApp.mc" lineNum="19" pc="268435654" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8" object="true" symbol="HalfKMDistView"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry id="9" object="true" symbol="HalfKMDistApp"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="13" symbol="settitle"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435548" name="settitle" stackId="1" startPc="268435460"/>
+<entry endPc="268435616" name="d3" stackId="4" startPc="268435553"/>
+<entry endPc="268435616" name="d2" stackId="3" startPc="268435553"/>
+<entry endPc="268435616" name="d1" stackId="2" startPc="268435553"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="HalfKMDistView">
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="HalfKMDistView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="HalfKMDistApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="HalfKMDistApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="HalfKMDistApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="HalfKMDistApp">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
