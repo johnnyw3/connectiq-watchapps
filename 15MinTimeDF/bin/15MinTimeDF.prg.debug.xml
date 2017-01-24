@@ -4,43 +4,58 @@
 <entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="6" pc="268435456" symbol="initialize"/>
 <entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="7" pc="268435460" symbol="initialize"/>
 <entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="8" pc="268435478" symbol="initialize"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="13" pc="268435492" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="15" pc="268435496" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="16" pc="268435506" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="17" pc="268435516" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="18" pc="268435526" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="19" pc="268435537" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="21" pc="268435547" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="22" pc="268435558" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="24" pc="268435568" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="25" pc="268435579" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="27" pc="268435589" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="28" pc="268435600" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="30" pc="268435610" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="31" pc="268435621" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="33" pc="268435631" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="34" pc="268435642" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="36" pc="268435652" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="37" pc="268435663" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="39" pc="268435673" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="40" pc="268435684" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="42" pc="268435694" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="43" pc="268435705" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="45" pc="268435715" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="46" pc="268435726" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="48" pc="268435736" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="49" pc="268435747" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="51" pc="268435757" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="52" pc="268435768" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="54" pc="268435778" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="55" pc="268435789" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="58" pc="268435799" symbol="compute"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFApp.mc" lineNum="5" pc="268435803" symbol="initialize"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFApp.mc" lineNum="6" pc="268435807" symbol="initialize"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFApp.mc" lineNum="10" pc="268435826" symbol="onStart"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFApp.mc" lineNum="14" pc="268435831" symbol="onStop"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFApp.mc" lineNum="18" pc="268435836" symbol="getInitialView"/>
-<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFApp.mc" lineNum="19" pc="268435840" symbol="getInitialView"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="9" pc="268435511" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="10" pc="268435519" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="13" pc="268435535" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="19" pc="268435549" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="21" pc="268435553" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="22" pc="268435563" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="23" pc="268435573" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="24" pc="268435583" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="25" pc="268435594" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="27" pc="268435604" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="28" pc="268435615" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="30" pc="268435625" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="31" pc="268435636" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="33" pc="268435646" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="34" pc="268435657" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="36" pc="268435667" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="37" pc="268435678" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="39" pc="268435688" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="40" pc="268435699" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="42" pc="268435709" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="43" pc="268435720" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="45" pc="268435730" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="46" pc="268435741" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="48" pc="268435751" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="49" pc="268435762" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="50" pc="268435769" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="52" pc="268435776" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="53" pc="268435787" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="55" pc="268435797" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="56" pc="268435808" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="58" pc="268435818" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="59" pc="268435829" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="61" pc="268435839" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="62" pc="268435850" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="64" pc="268435860" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="65" pc="268435871" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="67" pc="268435881" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="68" pc="268435892" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="70" pc="268435902" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="71" pc="268435913" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="73" pc="268435923" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="74" pc="268435934" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="75" pc="268435948" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="78" pc="268435961" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="79" pc="268435972" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFView.mc" lineNum="82" pc="268435982" symbol="compute"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFApp.mc" lineNum="5" pc="268435986" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFApp.mc" lineNum="6" pc="268435990" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFApp.mc" lineNum="10" pc="268436009" symbol="onStart"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFApp.mc" lineNum="14" pc="268436014" symbol="onStop"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFApp.mc" lineNum="18" pc="268436019" symbol="getInitialView"/>
+<entry filename="/Users/johnnyw/Documents/workspace/15MinTimeDF/source/MinTimeDFApp.mc" lineNum="19" pc="268436023" symbol="getInitialView"/>
 </pcToLineNum>
 <symbolTable>
 <entry field="true" id="8388611" symbol="Toybox"/>
@@ -49,21 +64,24 @@
 <entry id="8388769" module="true" symbol="Rez"/>
 <entry id="9" object="true" symbol="MinTimeDFApp"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="13" symbol="AppName"/>
+<entry field="true" id="14" symbol="AppName"/>
 <entry field="true" id="12" symbol="LauncherIcon"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
 <entry id="8389137" method="true" symbol="compute"/>
 <entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="13" symbol="settitle"/>
 <entry id="11" module="true" symbol="Layouts"/>
 <entry id="8" object="true" symbol="MinTimeDFView"/>
 <entry id="10" module="true" symbol="Menus"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435802" name="t3" stackId="4" startPc="268435496"/>
-<entry endPc="268435802" name="t2" stackId="3" startPc="268435496"/>
-<entry endPc="268435802" name="t1" stackId="2" startPc="268435496"/>
+<entry endPc="268435548" name="settitle" stackId="1" startPc="268435460"/>
+<entry endPc="268435773" name="done" stackId="5" startPc="268435762"/>
+<entry endPc="268435985" name="t3" stackId="4" startPc="268435553"/>
+<entry endPc="268435985" name="t2" stackId="3" startPc="268435553"/>
+<entry endPc="268435985" name="t1" stackId="2" startPc="268435553"/>
 </localVars>
 <annotations/>
 <functions>

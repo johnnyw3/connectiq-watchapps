@@ -1,0 +1,6 @@
+<properties>
+
+    <property id="App Version" type="string">1.1.0</property>
+     <property id="settitle" type="boolean">True</property>
+
+</properties>

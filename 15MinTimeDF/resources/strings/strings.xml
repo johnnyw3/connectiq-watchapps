@@ -1,3 +1,6 @@
 <strings>
     <string id="AppName">15MinTimeDF</string>
+
+    <string id="settitle">Display Time Format in Workout?</string>
+    
 </strings>

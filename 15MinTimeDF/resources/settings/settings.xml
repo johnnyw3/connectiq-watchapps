@@ -1,0 +1,7 @@
+<settings>
+
+    <setting propertyKey="@Properties.settitle" title="@Strings.settitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+</settings>
