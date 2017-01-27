@@ -1,0 +1,8 @@
+<properties>
+
+    <property id="App Version" type="string">1.1.0</property>
+    <property id="setgoal" type="number">5</property>
+    <property id="settitle" type="Boolean">true</property>
+    <property id="settitle2" type="Boolean">true</property>
+
+</properties>

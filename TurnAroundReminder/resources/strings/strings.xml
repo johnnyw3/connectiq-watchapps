@@ -1,3 +1,6 @@
 <strings>
-    <string id="AppName">TurnAroundReminder</string>
+    <string id="AppName">Turn Around Reminder</string>
+    <string id="settitle">Enter the point where you want to turn around at: (in KM)</string>
+	<string id="settitle2">Add "Notifier" to the end of the title of the data field?</string>
+	<string id="settitle3">Add "KM" to the end of the title of the data field?</string>
 </strings>
