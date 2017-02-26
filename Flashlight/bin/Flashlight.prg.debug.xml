@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="11" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="12" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="18" pc="268435521" symbol="onShow"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="24" pc="268435526" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="26" pc="268435530" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="27" pc="268435563" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="28" pc="268435571" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="29" pc="268435588" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="30" pc="268435664" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="31" pc="268435688" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="33" pc="268435705" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightView.mc" lineNum="39" pc="268435726" symbol="onHide"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightMenuDelegate.mc" lineNum="6" pc="268435731" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightMenuDelegate.mc" lineNum="7" pc="268435735" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightMenuDelegate.mc" lineNum="10" pc="268435754" symbol="onMenuItem"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightMenuDelegate.mc" lineNum="11" pc="268435758" symbol="onMenuItem"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightMenuDelegate.mc" lineNum="12" pc="268435769" symbol="onMenuItem"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightMenuDelegate.mc" lineNum="14" pc="268435804" symbol="onMenuItem"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightDelegate.mc" lineNum="5" pc="268435829" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightDelegate.mc" lineNum="6" pc="268435833" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightDelegate.mc" lineNum="9" pc="268435852" symbol="onMenu"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightDelegate.mc" lineNum="10" pc="268435856" symbol="onMenu"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightDelegate.mc" lineNum="11" pc="268435940" symbol="onMenu"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightApp.mc" lineNum="6" pc="268435944" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightApp.mc" lineNum="7" pc="268435948" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightApp.mc" lineNum="11" pc="268435967" symbol="onStart"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightApp.mc" lineNum="15" pc="268435972" symbol="onStop"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightApp.mc" lineNum="19" pc="268435977" symbol="getInitialView"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight/source/FlashlightApp.mc" lineNum="20" pc="268435981" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="15" pc="268436049" symbol="initialize"/>
+<entry filename="Rez" lineNum="16" pc="268436053" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268436071" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268436123" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268436176" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268436180" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268436296" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268436348" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268436496" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268436521" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="43" pc="268436573" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="10" object="true" symbol="FlashlightDelegate"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="16" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="17" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="21" symbol="AppName"/>
+<entry id="9" object="true" symbol="FlashlightMenuDelegate"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="23" symbol="item_2"/>
+<entry id="22" symbol="item_1"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry field="true" id="19" symbol="menu_label_2"/>
+<entry id="8" object="true" symbol="FlashlightView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="14" symbol="id_monkey"/>
+<entry id="11" object="true" symbol="FlashlightApp"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry field="true" id="18" symbol="istime"/>
+<entry field="true" id="20" symbol="prompt"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435702" name="view" stackId="5" startPc="268435571"/>
+<entry endPc="268435702" name="timeString" stackId="4" startPc="268435571"/>
+<entry endPc="268435702" name="clockTime" stackId="3" startPc="268435571"/>
+<entry endPc="268435725" name="settime" stackId="2" startPc="268435530"/>
+<entry endPc="268436600" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268436180"/>
+<entry endPc="268436600" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268436180"/>
+<entry endPc="268436600" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268436180"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="FlashlightView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="FlashlightView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="FlashlightView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="FlashlightView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="FlashlightView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="FlashlightMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="FlashlightMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="FlashlightDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="FlashlightDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="FlashlightApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="FlashlightApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="FlashlightApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="FlashlightApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

@@ -1,0 +1,4 @@
+<layout id="MainLayout">
+    <bitmap id="id_monkey" x="center" y="0" filename="../drawables/backpng.png" />
+    <label id="TimeLabel" x="center" y="1" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLACK" />
+</layout>

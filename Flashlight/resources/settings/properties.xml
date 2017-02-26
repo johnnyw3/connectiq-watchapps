@@ -1,0 +1,5 @@
+<properties>
+
+    <property id="App Version" type="string">1.2.0</property>
+    <property id="time" type="boolean">False</property>
+</properties>
