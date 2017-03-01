@@ -1,0 +1,6 @@
+<settings>
+
+    <setting propertyKey="@Properties.time" title="@Strings.istime">
+        <settingConfig type="boolean" />
+    </setting>
+</settings>
