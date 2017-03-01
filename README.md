@@ -6,6 +6,29 @@ All Software is open source (duh!) so, feel free to do whatever with the code!
 Me On ConnectIQ : https://apps.garmin.com/en-CA/developer/ca083619-4f7a-497f-9ccc-456c53f9f9de/apps
 
 
+# Flashlight App
+
+
+A simple application that makes your screen display fully white, which makes it very bright. If you need a light in the dark, this is the application to use! If you want the time, too, there is a setting for that. 
+
+ConnectIQ : https://apps.garmin.com/en-CA/apps/c59ee928-c7a9-44ab-aa91-c888e85dd2a6;jsessionid=7AA5B485D7C52B657BE069D2F47B44A7
+
+# Flashlight Widget
+
+A port of my flashlight app : A simple application that makes your screen display fully white, which makes it very bright. If you need a light in the dark, this is the application to use! If you want the time, too, there is a setting for that. 
+
+
+ConnectIQ : (Not Yet!)
+
+# Turn Around Reminder
+
+
+A simple data field that lets you pick a point where you want to turn around, and then the data field will count down to that point. Enter that point in the data field settings, and then the data field will work. If you haven't reached the point yet, it will say "x km to turn" and if you had, it will say "x km to finish".
+
+
+ConnectIQ : https://apps.garmin.com/en-CA/apps/0c5775a6-411a-435c-849d-1ea0c4aa173f;jsessionid=7AA5B485D7C52B657BE069D2F47B44A7#0
+
+
 #View Time In 15 Minute Segments
 
 Sometimes, when you are doing a workout with a club, or team, you don't want to be looking at your watch every 30 seconds. This data field is designed to discourage looking at your watch too much, by providing enough info that you need to be informed, but not get too specific.
@@ -21,4 +44,4 @@ Sometimes, when you are doing a workout with a club, or team, you don't want to 
 
 It shows the elapsed time of the workout, but it always rounds down to the nearest 500 Metres. This encourages you to check the distance way less often, as it will likely have not changed. I use this technique all of the time, as it allows you to focus on your training. 
 
-ConnectIQ : (Still being varified)
+ConnectIQ : https://apps.garmin.com/en-CA/apps/c68ced04-bca9-4b48-a53b-8adb1e64220c;jsessionid=7AA5B485D7C52B657BE069D2F47B44A7
