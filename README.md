@@ -36,7 +36,7 @@ A simple data field that lets you pick a point where you want to turn around, an
 ConnectIQ : https://apps.garmin.com/en-CA/apps/0c5775a6-411a-435c-849d-1ea0c4aa173f;jsessionid=7AA5B485D7C52B657BE069D2F47B44A7#0
 
 
-#View Time In 15 Minute Segments
+# View Time In 15 Minute Segments
 
 Sometimes, when you are doing a workout with a club, or team, you don't want to be looking at your watch every 30 seconds. This data field is designed to discourage looking at your watch too much, by providing enough info that you need to be informed, but not get too specific.
 
@@ -44,7 +44,7 @@ It shows the elapsed time of the workout, but it always rounds down to the neare
 
 Also, see it on ConnectIQ : https://apps.garmin.com/en-CA/apps/6d788ba9-dca9-4e71-8fa9-621cc53631a5
 
-#View Distance In 500 Metre Segments
+# View Distance In 500 Metre Segments
 
 
 Sometimes, when you are doing a workout with a club, or team, you don't want to be looking at your watch every 30 seconds. This data field is designed to discourage looking at your watch too much, by providing enough info that you need to be informed, but not get too specific.
