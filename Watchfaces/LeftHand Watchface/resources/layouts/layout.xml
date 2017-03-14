@@ -1,0 +1,10 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+    <bitmap id="id_monkey" x="0" y="0" filename="../drawables/back.png" />
+    <label id="TimeLabel" x="115" y="90" font="Gfx.FONT_NUMBER_THAI_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+	<label id="TimeLabel2" x="115" y="140" font="Gfx.FONT_NUMBER_THAI_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+	<label id="stepinfo" x="65" y="0" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+	<label id="batt" x="70" y="20" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+	<label id="date" x="97" y="65" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+	<label id="mon" x="97" y="45" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+</layout>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="11" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="12" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="16" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="17" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="23" pc="268435521" symbol="onShow"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="27" pc="268435526" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="29" pc="268435530" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="30" pc="268435547" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="31" pc="268435595" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="32" pc="268435666" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="33" pc="268435683" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="34" pc="268435741" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="35" pc="268435785" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="36" pc="268435792" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="37" pc="268435802" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="38" pc="268435862" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="39" pc="268435922" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="40" pc="268435960" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="41" pc="268436008" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="42" pc="268436033" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="43" pc="268436044" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="46" pc="268436060" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="47" pc="268436092" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="48" pc="268436099" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="51" pc="268436120" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="54" pc="268436185" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="55" pc="268436209" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="56" pc="268436250" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="57" pc="268436264" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="58" pc="268436288" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="59" pc="268436329" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="60" pc="268436343" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="61" pc="268436367" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="62" pc="268436408" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="63" pc="268436428" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="64" pc="268436452" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="65" pc="268436493" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="66" pc="268436513" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="67" pc="268436537" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="68" pc="268436578" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="69" pc="268436592" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="70" pc="268436616" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="71" pc="268436657" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="75" pc="268436671" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="81" pc="268436692" symbol="onHide"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="85" pc="268436697" symbol="onExitSleep"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceView.mc" lineNum="89" pc="268436702" symbol="onEnterSleep"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceBackground.mc" lineNum="7" pc="268436707" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceBackground.mc" lineNum="8" pc="268436711" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceBackground.mc" lineNum="12" pc="268436732" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceBackground.mc" lineNum="15" pc="268436753" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceBackground.mc" lineNum="17" pc="268436757" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceBackground.mc" lineNum="18" pc="268436810" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceApp.mc" lineNum="6" pc="268436823" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceApp.mc" lineNum="7" pc="268436827" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceApp.mc" lineNum="11" pc="268436846" symbol="onStart"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceApp.mc" lineNum="15" pc="268436851" symbol="onStop"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceApp.mc" lineNum="19" pc="268436856" symbol="getInitialView"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceApp.mc" lineNum="20" pc="268436860" symbol="getInitialView"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceApp.mc" lineNum="24" pc="268436898" symbol="onSettingsChanged"/>
+<entry filename="/Users/johnnyw/Documents/workspace/LeftHand Watchface/source/LeftHandWatchfaceApp.mc" lineNum="25" pc="268436902" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="28" pc="268436919" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="30" pc="268436923" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268436947" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268437048" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268437181" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268437314" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="35" pc="268437447" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268437580" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268437713" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="40" pc="268437846" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="16" symbol="ColorBlue"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="23" symbol="ColorWhite"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8" object="true" symbol="LeftHandWatchfaceView"/>
+<entry field="true" id="22" symbol="ColorBlack"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="17" symbol="ColorRed"/>
+<entry field="true" id="18" symbol="ForegroundColorTitle"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="24" symbol="AppName"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry id="9" object="true" symbol="Background"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="20" symbol="ColorDarkGray"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="13" symbol="id_monkey"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="15" symbol="ColorLightGray"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="19" symbol="BackgroundColorTitle"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="21" symbol="MilitaryFormatTitle"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="10" object="true" symbol="LeftHandWatchfaceApp"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436691" name="timeString" stackId="13" startPc="268435530"/>
+<entry endPc="268436691" name="clockTime" stackId="5" startPc="268435530"/>
+<entry endPc="268436691" name="hourString" stackId="12" startPc="268435530"/>
+<entry endPc="268436691" name="timeFormat" stackId="8" startPc="268435530"/>
+<entry endPc="268436691" name="act" stackId="2" startPc="268435530"/>
+<entry endPc="268436691" name="stepinfo" stackId="7" startPc="268435530"/>
+<entry endPc="268436691" name="view" stackId="14" startPc="268435530"/>
+<entry endPc="268436691" name="dateString" stackId="10" startPc="268435530"/>
+<entry endPc="268436691" name="minString" stackId="6" startPc="268435530"/>
+<entry endPc="268436691" name="hours" stackId="9" startPc="268435530"/>
+<entry endPc="268436691" name="batteryinfo" stackId="4" startPc="268435530"/>
+<entry endPc="268436691" name="dateInfo" stackId="3" startPc="268435530"/>
+<entry endPc="268436691" name="monthString" stackId="11" startPc="268435530"/>
+<entry endPc="268436752" name="dictionary" stackId="1" startPc="268436711"/>
+<entry endPc="268437933" name="rez_cmp_local_bitmap_TimeLabel" stackId="4" startPc="268436923"/>
+<entry endPc="268437933" name="rez_cmp_local_bitmap_date" stackId="8" startPc="268436923"/>
+<entry endPc="268437933" name="rez_cmp_local_bitmap_TimeLabel2" stackId="5" startPc="268436923"/>
+<entry endPc="268437933" name="rez_cmp_local_bitmap_batt" stackId="7" startPc="268436923"/>
+<entry endPc="268437933" name="rez_cmp_local_bitmap_mon" stackId="9" startPc="268436923"/>
+<entry endPc="268437933" name="rez_cmp_local_bitmap_stepinfo" stackId="6" startPc="268436923"/>
+<entry endPc="268437933" name="rez_cmp_local_custom_drawable_T5X42IF8J5Y57A1RXEZZ" stackId="2" startPc="268436923"/>
+<entry endPc="268437933" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268436923"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="LeftHandWatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="LeftHandWatchfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="LeftHandWatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="LeftHandWatchfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="LeftHandWatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="LeftHandWatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="LeftHandWatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="LeftHandWatchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="LeftHandWatchfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="LeftHandWatchfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="LeftHandWatchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="LeftHandWatchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
