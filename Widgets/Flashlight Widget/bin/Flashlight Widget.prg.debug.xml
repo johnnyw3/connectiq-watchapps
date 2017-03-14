@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="5" pc="268435456" symbol="initialize"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="6" pc="268435460" symbol="initialize"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="10" pc="268435479" symbol="onLayout"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="11" pc="268435483" symbol="onLayout"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="17" pc="268435521" symbol="onShow"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="18" pc="268435525" symbol="onShow"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="19" pc="268435558" symbol="onShow"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="20" pc="268435566" symbol="onShow"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="21" pc="268435585" symbol="onShow"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="22" pc="268435661" symbol="onShow"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="23" pc="268435685" symbol="onShow"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="28" pc="268435703" symbol="onUpdate"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="30" pc="268435707" symbol="onUpdate"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="36" pc="268435728" symbol="onHide"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetApp.mc" lineNum="5" pc="268435733" symbol="initialize"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetApp.mc" lineNum="6" pc="268435737" symbol="initialize"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetApp.mc" lineNum="10" pc="268435756" symbol="onStart"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetApp.mc" lineNum="14" pc="268435761" symbol="onStop"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetApp.mc" lineNum="18" pc="268435766" symbol="getInitialView"/>
-<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetApp.mc" lineNum="19" pc="268435770" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="23" pc="268435808" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="25" pc="268435812" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="26" pc="268435928" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="27" pc="268435980" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="28" pc="268436128" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="29" pc="268436153" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="32" pc="268436205" symbol="MainLayout"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="11" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="12" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="18" pc="268435521" symbol="onShow"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="19" pc="268435525" symbol="onShow"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="20" pc="268435558" symbol="onShow"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="21" pc="268435566" symbol="onShow"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="22" pc="268435583" symbol="onShow"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="23" pc="268435659" symbol="onShow"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="24" pc="268435683" symbol="onShow"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="29" pc="268435701" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="31" pc="268435705" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetView.mc" lineNum="37" pc="268435726" symbol="onHide"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetApp.mc" lineNum="5" pc="268435731" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetApp.mc" lineNum="6" pc="268435735" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetApp.mc" lineNum="10" pc="268435754" symbol="onStart"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetApp.mc" lineNum="14" pc="268435759" symbol="onStop"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetApp.mc" lineNum="18" pc="268435764" symbol="getInitialView"/>
+<entry filename="/Users/johnnyw/Documents/workspace/Flashlight Widget/source/FlashlightWidgetApp.mc" lineNum="19" pc="268435768" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="23" pc="268435806" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="25" pc="268435810" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="26" pc="268435926" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="27" pc="268435978" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="28" pc="268436126" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="29" pc="268436151" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="32" pc="268436203" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
@@ -64,13 +64,13 @@
 <entry id="8388772" module="true" symbol="Fonts"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435699" name="view" stackId="4" startPc="268435566"/>
-<entry endPc="268435699" name="timeString" stackId="3" startPc="268435566"/>
-<entry endPc="268435699" name="clockTime" stackId="2" startPc="268435566"/>
-<entry endPc="268435702" name="settime" stackId="1" startPc="268435525"/>
-<entry endPc="268436232" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268435812"/>
-<entry endPc="268436232" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268435812"/>
-<entry endPc="268436232" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268435812"/>
+<entry endPc="268435697" name="view" stackId="4" startPc="268435566"/>
+<entry endPc="268435697" name="timeString" stackId="3" startPc="268435566"/>
+<entry endPc="268435697" name="clockTime" stackId="2" startPc="268435566"/>
+<entry endPc="268435700" name="settime" stackId="1" startPc="268435525"/>
+<entry endPc="268436230" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268435810"/>
+<entry endPc="268436230" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268435810"/>
+<entry endPc="268436230" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268435810"/>
 </localVars>
 <annotations/>
 <functions>

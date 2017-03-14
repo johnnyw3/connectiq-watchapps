@@ -1,4 +1,5 @@
 using Toybox.WatchUi as Ui;
+using Toybox.System as Sys;
 
 class FlashlightWidgetView extends Ui.View {
 
