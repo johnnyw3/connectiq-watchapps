@@ -18,7 +18,14 @@ ConnectIQ : https://apps.garmin.com/en-CA/apps/c59ee928-c7a9-44ab-aa91-c888e85dd
 A port of my flashlight app : A simple application that makes your screen display fully white, which makes it very bright. If you need a light in the dark, this is the application to use! If you want the time, too, there is a setting for that. 
 
 
-ConnectIQ : (Not Yet!)
+ConnectIQ : https://apps.garmin.com/en-CA/apps/02bbd511-7c5d-4b94-a900-99dc614ab3c5;jsessionid=0B036679FB1C6F312D079C42D9AAC014
+
+# LeftHand Watchface
+
+A watchface designed for people wearing their watch on their left wrist.
+
+
+ConnectIQ : (Not Yet)
 
 # Turn Around Reminder
 
