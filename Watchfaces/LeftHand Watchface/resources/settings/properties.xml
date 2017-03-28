@@ -1,7 +1,8 @@
 <properties>
-
-    <property id="BackgroundColor" type="number">0x000000</property>
-    <property id="ForegroundColor" type="number">0xFF0000</property>
+	<property id="phone" type="number">1</property>
+    <property id="BackgroundColor" type="number">1</property>
+    <property id="ForegroundColor" type="number">0xFFFFFF</property>
     <property id="UseMilitaryFormat" type="boolean">false</property>
+    <property id="icons" type="number">1</property>
 
 </properties>

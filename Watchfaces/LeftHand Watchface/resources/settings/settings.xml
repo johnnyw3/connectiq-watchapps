@@ -6,6 +6,7 @@
             <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
             <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
             <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="1">@Strings.UsePic</listEntry>
         </settingConfig>
     </setting>
 
@@ -17,9 +18,20 @@
             <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
         </settingConfig>
     </setting>
-
-    <setting propertyKey="@Properties.UseMilitaryFormat" title="@Strings.MilitaryFormatTitle">
-        <settingConfig type="boolean" />
+    
+    <setting propertyKey="@Properties.phone" title="@Strings.PhoneTitle">
+        <settingConfig type="list">
+            <listEntry value="1">@Strings.Icon</listEntry>
+            <listEntry value="2">@Strings.Text</listEntry>
+            <listEntry value="0">@Strings.None</listEntry>
+         </settingConfig>
     </setting>
 
+ <setting propertyKey="@Properties.icons" title="@Strings.IconTitle">
+        <settingConfig type="list">
+            <listEntry value="1">@Strings.Icon2</listEntry>
+            <listEntry value="2">@Strings.Text2</listEntry>
+         </settingConfig>
+    </setting>
+    
 </settings>
