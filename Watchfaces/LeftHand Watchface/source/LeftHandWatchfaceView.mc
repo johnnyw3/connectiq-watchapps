@@ -43,6 +43,8 @@ class LeftHandWatchfaceView extends Ui.WatchFace {
         var isConnected = Sys.getDeviceSettings().phoneConnected;
         var phone = "";
         var phone2 = "";
+        var ampm = "";
+        var view = View.findDrawableById("TimeLabel");
         if (isConnected == true){
         	phone2 = "Phone";
         	phone = "Connected";
@@ -54,7 +56,17 @@ class LeftHandWatchfaceView extends Ui.WatchFace {
         if (!Sys.getDeviceSettings().is24Hour) {
             if (hours > 12) {
                 hours = hours - 12;
+                ampm = "P";
+                view = View.findDrawableById("ampm");
+        		view.setColor(App.getApp().getProperty("ForegroundColor"));
+       			view.setText(ampm);
             }
+            if (hours <= 12) {
+            	ampm = "A";
+                view = View.findDrawableById("ampm");
+        		view.setColor(App.getApp().getProperty("ForegroundColor"));
+       			view.setText(ampm);
+       			}
         } else {
         }
         var hourString = Lang.format("$1$", [hours]);
@@ -62,7 +74,7 @@ class LeftHandWatchfaceView extends Ui.WatchFace {
 
         // Update the view
         // Text, and icons!
-        var view = View.findDrawableById("TimeLabel");
+        view = View.findDrawableById("TimeLabel");
         view.setColor(App.getApp().getProperty("ForegroundColor"));
         view.setText(hourString);
         view = View.findDrawableById("TimeLabel2");
