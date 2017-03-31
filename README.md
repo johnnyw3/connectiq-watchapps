@@ -25,10 +25,10 @@ ConnectIQ : https://apps.garmin.com/en-CA/apps/02bbd511-7c5d-4b94-a900-99dc614ab
 
 A watchface designed for people wearing their watch on their left wrist.
 
-Round version will be on ConnectIQ soon!
-
 
 ConnectIQ : https://apps.garmin.com/en-US/apps/970d62db-c09c-442d-b23d-8a7208a4a2b9
+
+Fenix Version ConnectIQ : https://apps.garmin.com/en-US/apps/746ce6b1-5e0d-4e3f-b748-9609f6ac10f1
 
 # Turn Around Reminder
 
