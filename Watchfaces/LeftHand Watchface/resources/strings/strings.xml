@@ -18,5 +18,6 @@
     <string id="None">Don't display</string>
     <string id="Icon2">Use Icons</string>
     <string id="Text2">Use Text</string>
-
+    <string id="UseSecs">Display seconds when watch is raised. NOTE: May be buggy</string>
+	
 </strings>

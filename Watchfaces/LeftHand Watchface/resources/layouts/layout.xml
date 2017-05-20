@@ -15,4 +15,5 @@
 	<label id="phone" x="35" y="185" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
 	<label id="phone2" x="25" y="170" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
 	<label id="ampm" x="140" y="80" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+	<label id="seconds" x="80" y="90" font="Gfx.FONT_SYSTEM_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
 </layout>

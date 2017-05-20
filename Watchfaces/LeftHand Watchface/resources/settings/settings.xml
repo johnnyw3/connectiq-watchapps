@@ -38,4 +38,14 @@
          </settingConfig>
     </setting>
     
+     <setting propertyKey="@Properties.icons" title="@Strings.IconTitle">
+        <settingConfig type="list">
+            <listEntry value="1">@Strings.Icon2</listEntry>
+            <listEntry value="2">@Strings.Text2</listEntry>
+         </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.Secs" title="@Strings.UseSecs">
+        <settingConfig type="Boolean" />
+    </setting>
 </settings>

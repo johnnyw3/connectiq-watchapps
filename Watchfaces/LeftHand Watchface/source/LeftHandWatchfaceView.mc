@@ -5,7 +5,9 @@ using Toybox.Lang as Lang;
 using Toybox.Application as App;
 using Toybox.Time.Gregorian as Calendar;
 using Toybox.ActivityMonitor as Act;
-
+var sleeping = true;
+var sleepcount = 0;
+var newsleep = false;
 class LeftHandWatchfaceView extends Ui.WatchFace {
 
     function initialize() {
@@ -30,6 +32,7 @@ class LeftHandWatchfaceView extends Ui.WatchFace {
         // Varibles, and other stuff
         var back = App.getApp().getProperty("BackgroundColor");
         var icons = App.getApp().getProperty("icons");
+        var usesecs = App.getApp().getProperty("Secs");
         var act = Act.getInfo();
         var dateInfo = Calendar.info(Time.now(), Time.FORMAT_MEDIUM);
         var batteryinfo = Lang.format("$1$%", [Sys.getSystemStats().battery.format("%02d")]);
@@ -38,9 +41,11 @@ class LeftHandWatchfaceView extends Ui.WatchFace {
         var stepinfo = Lang.format("$1$", [act.steps]);
         var timeFormat = "$1$:$2$";
         var hours = clockTime.hour;
+        var se = clockTime.sec;
         var dateString = Lang.format("$1$ $2$", [dateInfo.day_of_week, dateInfo.day]);
 		var monthString = Lang.format("$1$ $2$", [dateInfo.month, dateInfo.year]);
         var isConnected = Sys.getDeviceSettings().phoneConnected;
+        var secString = Lang.format("$1$", [se]);
         var phone = "";
         var phone2 = "";
         var ampm = "";
@@ -114,6 +119,7 @@ class LeftHandWatchfaceView extends Ui.WatchFace {
         view = View.findDrawableById("phone2");
         view.setColor(App.getApp().getProperty("ForegroundColor"));
         view.setText(phone2);
+        
         }
         if (phonet == 1){
         	if (isConnected == true){
@@ -129,8 +135,31 @@ class LeftHandWatchfaceView extends Ui.WatchFace {
         	var view2 = View.findDrawableById("id_monkey");
         	view2.setLocation(0, 0);
         }
-        
-        
+        if (usesecs == true){
+        	if (sleeping == false){
+				view = View.findDrawableById("seconds");
+        		view.setColor(App.getApp().getProperty("ForegroundColor"));
+        		view.setText(secString);
+        		sleepcount = sleepcount + 1;
+        		if (newsleep == true){
+        			sleepcount = 0 
+        		}
+        		if (sleepcount == 9){
+        			sleeping = true;
+        			sleepcount = 0;
+        	}
+        	}
+        	else{
+        		view = View.findDrawableById("seconds");
+        		view.setColor(App.getApp().getProperty("ForegroundColor"));
+        		view.setText("--");
+        	}
+        }
+        else {
+        	view = View.findDrawableById("seconds");
+        	view.setColor(App.getApp().getProperty("ForegroundColor"));
+        	view.setText("");
+        }
 
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
@@ -144,10 +173,15 @@ class LeftHandWatchfaceView extends Ui.WatchFace {
 
     // The user has just looked at their watch. Timers and animations may be started here.
     function onExitSleep() {
+    	sleeping = false;
+    	newsleep = true;
+        
+
     }
 
     // Terminate any active timers and prepare for slow updates.
     function onEnterSleep() {
+    	sleeping = true;
     }
 
 }
