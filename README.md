@@ -7,6 +7,9 @@ All Software is open source (duh!) so, feel free to do whatever with the code!
 Me On ConnectIQ : https://apps.garmin.com/en-CA/developer/ca083619-4f7a-497f-9ccc-456c53f9f9de/apps
 
 
+
+Note: Thanks to jensws80 for some of his code on the watchfaces!
+
 # Flashlight App
 
 
