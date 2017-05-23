@@ -10,6 +10,14 @@ Me On ConnectIQ : https://apps.garmin.com/en-CA/developer/ca083619-4f7a-497f-9cc
 
 Note: Thanks to jensws80 for some of his code on the watchfaces!
 
+# DayShift
+
+DayShift is a new kind of watchface that changes based on the time of day, for example black at night, and yellow at noon!
+
+ConnectIQ : https://apps.garmin.com/en-US/apps/34971426-f5ee-4e06-acf1-2ad6396f4f17
+Promtion Video : https://www.youtube.com/watch?v=5K7qxEQk4_0
+
+
 # Flashlight App
 
 
