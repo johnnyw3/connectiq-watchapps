@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="15" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="16" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="20" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="21" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="27" pc="268435521" symbol="onShow"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="31" pc="268435526" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="33" pc="268435530" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="34" pc="268435537" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="35" pc="268435554" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="36" pc="268435602" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="37" pc="268435619" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="38" pc="268435629" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="39" pc="268435639" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="40" pc="268435697" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="41" pc="268435735" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="42" pc="268435795" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="43" pc="268435855" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="44" pc="268435926" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="45" pc="268435970" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="46" pc="268436001" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="47" pc="268436011" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="48" pc="268436049" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="49" pc="268436074" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="50" pc="268436085" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="53" pc="268436101" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="54" pc="268436133" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="55" pc="268436140" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="58" pc="268436161" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="61" pc="268436226" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="62" pc="268436250" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="63" pc="268436264" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="64" pc="268436275" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="66" pc="268436295" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="67" pc="268436306" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="68" pc="268436318" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="71" pc="268436341" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="72" pc="268436352" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="73" pc="268436364" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="76" pc="268436387" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="77" pc="268436398" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="78" pc="268436410" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="81" pc="268436433" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="82" pc="268436444" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="84" pc="268436464" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="85" pc="268436488" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="86" pc="268436502" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="87" pc="268436513" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="89" pc="268436533" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="90" pc="268436544" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="91" pc="268436556" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="94" pc="268436579" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="95" pc="268436590" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="96" pc="268436602" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="99" pc="268436625" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="100" pc="268436636" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="101" pc="268436648" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="104" pc="268436671" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="105" pc="268436682" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="107" pc="268436702" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="108" pc="268436726" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="109" pc="268436740" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="110" pc="268436751" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="112" pc="268436771" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="113" pc="268436782" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="114" pc="268436794" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="117" pc="268436817" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="118" pc="268436828" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="119" pc="268436840" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="122" pc="268436863" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="123" pc="268436874" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="124" pc="268436886" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="127" pc="268436909" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="128" pc="268436920" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="130" pc="268436940" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="131" pc="268436964" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="132" pc="268436975" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="134" pc="268436995" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="135" pc="268437006" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="136" pc="268437018" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="139" pc="268437041" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="140" pc="268437052" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="141" pc="268437064" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="144" pc="268437087" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="145" pc="268437098" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="146" pc="268437110" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="149" pc="268437133" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="150" pc="268437144" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="152" pc="268437164" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="153" pc="268437178" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="154" pc="268437202" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="155" pc="268437213" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="157" pc="268437233" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="158" pc="268437244" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="159" pc="268437256" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="162" pc="268437279" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="163" pc="268437290" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="164" pc="268437302" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="167" pc="268437325" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="168" pc="268437336" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="169" pc="268437348" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="172" pc="268437371" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="173" pc="268437382" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="175" pc="268437402" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="176" pc="268437416" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="177" pc="268437440" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="178" pc="268437451" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="180" pc="268437471" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="181" pc="268437482" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="182" pc="268437494" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="185" pc="268437517" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="186" pc="268437528" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="187" pc="268437540" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="190" pc="268437563" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="191" pc="268437574" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="192" pc="268437586" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="195" pc="268437609" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="196" pc="268437620" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="198" pc="268437640" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="199" pc="268437654" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="200" pc="268437665" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="201" pc="268437689" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="202" pc="268437711" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="203" pc="268437735" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="205" pc="268437760" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="206" pc="268437771" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="207" pc="268437795" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="208" pc="268437817" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="209" pc="268437841" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="211" pc="268437866" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="212" pc="268437877" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="213" pc="268437888" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="214" pc="268437912" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="215" pc="268437934" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="216" pc="268437958" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="219" pc="268437986" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="220" pc="268438010" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="221" pc="268438021" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="223" pc="268438041" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="224" pc="268438052" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="225" pc="268438064" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="228" pc="268438087" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="229" pc="268438098" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="230" pc="268438110" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="233" pc="268438133" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="234" pc="268438144" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="235" pc="268438156" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="238" pc="268438179" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="239" pc="268438190" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="241" pc="268438210" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="242" pc="268438234" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="243" pc="268438245" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="245" pc="268438265" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="246" pc="268438276" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="247" pc="268438288" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="250" pc="268438311" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="251" pc="268438322" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="252" pc="268438334" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="255" pc="268438357" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="256" pc="268438368" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="257" pc="268438380" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="260" pc="268438403" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="261" pc="268438414" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="263" pc="268438434" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="264" pc="268438466" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="267" pc="268438486" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="269" pc="268438503" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="270" pc="268438511" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="271" pc="268438525" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="272" pc="268438549" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="273" pc="268438563" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="274" pc="268438585" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="275" pc="268438595" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="276" pc="268438609" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="278" pc="268438625" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="279" pc="268438642" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="280" pc="268438652" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="286" pc="268438674" symbol="onUpdate"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="292" pc="268438695" symbol="onHide"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="296" pc="268438700" symbol="onExitSleep"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="297" pc="268438704" symbol="onExitSleep"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="298" pc="268438714" symbol="onExitSleep"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="302" pc="268438725" symbol="onEnterSleep"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftView.mc" lineNum="303" pc="268438729" symbol="onEnterSleep"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="8" pc="268438740" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="9" pc="268438744" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="13" pc="268438765" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="16" pc="268438786" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="18" pc="268438790" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="19" pc="268438807" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="20" pc="268438817" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="21" pc="268438828" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="23" pc="268438860" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="24" pc="268438871" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="25" pc="268438883" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="28" pc="268438918" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="29" pc="268438929" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="30" pc="268438941" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="33" pc="268438976" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="34" pc="268438987" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="35" pc="268438999" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="38" pc="268439034" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="39" pc="268439045" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="40" pc="268439057" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="43" pc="268439092" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="44" pc="268439103" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="45" pc="268439115" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="48" pc="268439150" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="49" pc="268439161" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="50" pc="268439173" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="53" pc="268439208" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="54" pc="268439219" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="55" pc="268439231" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="58" pc="268439266" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="59" pc="268439277" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="60" pc="268439289" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="63" pc="268439324" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="64" pc="268439335" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="65" pc="268439347" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="68" pc="268439382" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="69" pc="268439393" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftBackground.mc" lineNum="71" pc="268439425" symbol="draw"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftApp.mc" lineNum="6" pc="268439438" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftApp.mc" lineNum="7" pc="268439442" symbol="initialize"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftApp.mc" lineNum="11" pc="268439461" symbol="onStart"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftApp.mc" lineNum="15" pc="268439466" symbol="onStop"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftApp.mc" lineNum="19" pc="268439471" symbol="getInitialView"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftApp.mc" lineNum="20" pc="268439475" symbol="getInitialView"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftApp.mc" lineNum="24" pc="268439513" symbol="onSettingsChanged"/>
+<entry filename="/Users/johnnyw/Documents/workspace/DayShift/source/DayShiftApp.mc" lineNum="25" pc="268439517" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="32" pc="268439534" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268439538" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="35" pc="268439562" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268439710" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268439735" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="38" pc="268439781" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="39" pc="268439929" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="40" pc="268439954" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="41" pc="268440000" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="42" pc="268440148" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="43" pc="268440173" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="44" pc="268440225" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="45" pc="268440373" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="46" pc="268440398" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="47" pc="268440450" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="48" pc="268440583" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="49" pc="268440716" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="50" pc="268440817" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="51" pc="268440918" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="52" pc="268441019" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="53" pc="268441120" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="54" pc="268441268" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="55" pc="268441293" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="56" pc="268441345" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="57" pc="268441508" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="58" pc="268441533" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="59" pc="268441585" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="62" pc="268441631" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="22" symbol="ColorBlue"/>
+<entry field="true" id="8" symbol="sleeping"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="29" symbol="ColorWhite"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="11" object="true" symbol="DayShiftView"/>
+<entry field="true" id="28" symbol="ColorBlack"/>
+<entry field="true" id="17" symbol="batticon"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="23" symbol="ColorRed"/>
+<entry field="true" id="9" symbol="sleepcount"/>
+<entry field="true" id="24" symbol="ForegroundColorTitle"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="31" symbol="AppName"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry field="true" id="19" symbol="batticonb"/>
+<entry id="12" object="true" symbol="Background"/>
+<entry field="true" id="20" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="30" symbol="UseSecs"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="26" symbol="ColorDarkGray"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="10" symbol="newsleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="18" symbol="footiconb"/>
+<entry field="true" id="21" symbol="ColorLightGray"/>
+<entry field="true" id="16" symbol="footicon"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="25" symbol="BackgroundColorTitle"/>
+<entry id="13" object="true" symbol="DayShiftApp"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="27" symbol="MilitaryFormatTitle"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268438694" name="timeString" stackId="17" startPc="268435530"/>
+<entry endPc="268438694" name="secString" stackId="16" startPc="268435530"/>
+<entry endPc="268438694" name="clockTime" stackId="5" startPc="268435530"/>
+<entry endPc="268438694" name="timeFormat" stackId="2" startPc="268435530"/>
+<entry endPc="268438694" name="hourString" stackId="9" startPc="268435530"/>
+<entry endPc="268438694" name="hours2" stackId="7" startPc="268435530"/>
+<entry endPc="268438694" name="usesecs" stackId="14" startPc="268435530"/>
+<entry endPc="268438694" name="se" stackId="15" startPc="268435530"/>
+<entry endPc="268438694" name="act" stackId="3" startPc="268435530"/>
+<entry endPc="268438694" name="stepinfo" stackId="13" startPc="268435530"/>
+<entry endPc="268438694" name="view" stackId="18" startPc="268435530"/>
+<entry endPc="268438694" name="dateString" stackId="10" startPc="268435530"/>
+<entry endPc="268438694" name="hours" stackId="6" startPc="268435530"/>
+<entry endPc="268438694" name="minString" stackId="8" startPc="268435530"/>
+<entry endPc="268438694" name="batteryinfo" stackId="12" startPc="268435530"/>
+<entry endPc="268438694" name="dateInfo" stackId="4" startPc="268435530"/>
+<entry endPc="268438694" name="monthString" stackId="11" startPc="268435530"/>
+<entry endPc="268438785" name="dictionary" stackId="1" startPc="268438744"/>
+<entry endPc="268439437" name="hours" stackId="3" startPc="268438790"/>
+<entry endPc="268439437" name="clockTime" stackId="2" startPc="268438790"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_footiconb" stackId="15" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_mon_fontHeight" stackId="10" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_TimeLabel2_fontHeight" stackId="6" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_custom_drawable_ZE3CA1E442ZKZCBEB0D7" stackId="2" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_date_fontHeight" stackId="8" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_batticont" stackId="12" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_footicon" stackId="13" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_colon" stackId="19" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_stepinfoicon" stackId="11" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_batticon" stackId="14" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_date" stackId="7" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_TimeLabel2" stackId="5" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_mon" stackId="9" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_seconds" stackId="17" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_batticonb" stackId="16" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_colon_fontHeight" stackId="20" startPc="268439538"/>
+<entry endPc="268441768" name="rez_cmp_local_bitmap_seconds_fontHeight" stackId="18" startPc="268439538"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="DayShiftView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="DayShiftView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="DayShiftView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DayShiftView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="DayShiftView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="DayShiftView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="DayShiftView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DayShiftApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="DayShiftApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="DayShiftApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="DayShiftApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="DayShiftApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
