@@ -142,7 +142,7 @@ class LeftHandWatchfaceView extends Ui.WatchFace {
         		view.setText(secString);
         		sleepcount = sleepcount + 1;
         		if (newsleep == true){
-        			sleepcount = 0 
+        			sleepcount = 0;
         		}
         		if (sleepcount == 9){
         			sleeping = true;
