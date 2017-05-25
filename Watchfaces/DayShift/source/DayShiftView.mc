@@ -32,10 +32,12 @@ class DayShiftView extends Ui.WatchFace {
         // Get the current time and format it correctly
         var timeFormat = "$1$:$2$";
         var act = Act.getInfo();
+        var DevSys = Sys.getDeviceSettings();
         var dateInfo = Calendar.info(Time.now(), Time.FORMAT_MEDIUM);
         var clockTime = Sys.getClockTime();
         var hours = clockTime.hour;
         var hours2 = clockTime.hour;
+        var scrwidth = DevSys.screenWidth;
         var minString = Lang.format("$1$", [clockTime.min.format("%02d")]);
         var hourString = Lang.format("$1$", [hours]);
         var dateString = Lang.format("$1$ $2$", [dateInfo.day_of_week, dateInfo.day]);
@@ -59,208 +61,123 @@ class DayShiftView extends Ui.WatchFace {
 
         // Update the view
         var view = View.findDrawableById("TimeLabel");
+        var viewstep = View.findDrawableById("stepinfoicon");
+        var viewdate = View.findDrawableById("date");
+        var viewmon = View.findDrawableById("mon");
+        var view2 = View.findDrawableById("TimeLabel2");
+        var viewbatt = View.findDrawableById("batticont");
+        var viewsec = View.findDrawableById("seconds");
+        var viewcolon = View.findDrawableById("colon");
         view.setText(hourString);
+        viewstep.setText(stepinfo);
+        viewdate.setText(dateString);
+        viewmon.setText(monthString);
+        view2.setText(minString);
+        viewbatt.setText(batteryinfo);
+        if (scrwidth == 218){
+        	view.setLocation(75, 40);
+        	view2.setLocation(150, 40);
+        	viewstep.setLocation(125, 5);
+        	viewbatt.setLocation(123, 23); 
+        	viewsec.setLocation(193, 50);
+        }
+        if (App.getApp().getProperty("UseMilitaryFormat")) {
+        	viewcolon.setText("");
+        }
+        else{
+        	viewcolon.setText(":");
+        }
         if (hours2 <= 10){
         	view.setColor(0xFFFFFF);
+        	viewstep.setColor(0xFFFFFF);
+        	viewdate.setColor(0xFFFFFF);
+        	viewmon.setColor(0xFFFFFF);
+        	view2.setColor(0xFFFFFF);
+        	viewbatt.setColor(0xFFFFFF);
+        	viewsec.setColor(0xFFFFFF);
+        	viewcolon.setColor(0xFFFFFF);
         }
         if (hours2 >= 10){
         	if (hours2 << 12){
         		view.setColor(0x000000);
+        		viewstep.setColor(0x000000);
+        		viewdate.setColor(0x000000);
+        		viewmon.setColor(0x000000);
+        		view2.setColor(0x000000);
+        		viewbatt.setColor(0x000000);
+        		viewsec.setColor(0x000000);
+        		viewcolon.setColor(0x000000);
         	}
         }      
         if (hours2 >= 12){
         	if (hours2 << 14){
         		view.setColor(0x000000);
+        		viewstep.setColor(0x000000);
+        		viewdate.setColor(0x000000);
+        		viewmon.setColor(0x000000);
+        		view2.setColor(0x000000);
+        		viewbatt.setColor(0x000000);
+        		viewsec.setColor(0x000000);
+        		viewcolon.setColor(0x000000);
         	}
         }
         if (hours2 >= 14){
         	if (hours2 << 16){
         		view.setColor(0x000000);
+        		viewstep.setColor(0x000000);
+        		viewdate.setColor(0x000000);
+        		viewmon.setColor(0x000000);
+        		view2.setColor(0x000000);
+        		viewbatt.setColor(0x000000);
+        		viewsec.setColor(0x000000);
+        		viewcolon.setColor(0x000000);
         	}
         } 
         if (hours2 >= 16){
         		if (hours2 <= 17){
         			view.setColor(0xFFFFFF);
+		        	viewstep.setColor(0xFFFFFF);
+        			viewdate.setColor(0xFFFFFF);
+		        	viewmon.setColor(0xFFFFFF);
+        			view2.setColor(0xFFFFFF);
+		        	viewbatt.setColor(0xFFFFFF);
+        			viewsec.setColor(0xFFFFFF);
+        			viewcolon.setColor(0xFFFFFF);
         		}
         		if (hours2 >= 18){
         			if (hours2 <= 19){
         				view.setColor(0x000000);
+	        			viewstep.setColor(0x000000);
+    	    			viewdate.setColor(0x000000);
+        				viewmon.setColor(0x000000);
+        				view2.setColor(0x000000);
+  		      			viewbatt.setColor(0x000000);
+       		 			viewsec.setColor(0x000000);
+        				viewcolon.setColor(0x000000);
         			}
         		}
         		if (hours2 >= 20){
         			view.setColor(0xFFFFFF);
+		        	viewstep.setColor(0xFFFFFF);
+        			viewdate.setColor(0xFFFFFF);
+		        	viewmon.setColor(0xFFFFFF);
+        			view2.setColor(0xFFFFFF);
+		        	viewbatt.setColor(0xFFFFFF);
+        			viewsec.setColor(0xFFFFFF);
+        			viewcolon.setColor(0xFFFFFF);
         		}
         }    
-        view = View.findDrawableById("TimeLabel2");
-        view.setText(minString);
-        if (hours2 <= 10){
-        		view.setColor(0xFFFFFF);
-        }
-        if (hours2 >= 10){
-        	if (hours2 << 12){
-        		view.setColor(0x000000);
-        	}
-        }      
-        if (hours2 >= 12){
-        	if (hours2 << 14){
-        		view.setColor(0x000000);
-        	}
-        }
-        if (hours2 >= 14){
-        	if (hours2 << 16){
-        		view.setColor(0x000000);
-        	}
-        } 
-        if (hours2 >= 16){
-        		if (hours2 <= 17){
-        			view.setColor(0xFFFFFF);
-        		}
-        		if (hours2 >= 18){
-        			if (hours2 <= 19){
-        				view.setColor(0x000000);
-        			}
-        		}
-        		if (hours2 >= 20){
-        			view.setColor(0xFFFFFF);
-        		}
-        }   
-		view = View.findDrawableById("date");
-        view.setText(monthString);
-        if (hours2 <= 10){
-        		view.setColor(0xFFFFFF);
-        }
-        if (hours2 >= 10){
-        	if (hours2 << 12){
-        		view.setColor(0x000000);
-        	}
-        }      
-        if (hours2 >= 12){
-        	if (hours2 << 14){
-        		view.setColor(0x000000);
-        	}
-        }
-        if (hours2 >= 14){
-        	if (hours2 << 16){
-        		view.setColor(0x000000);
-        	}
-        } 
-        if (hours2 >= 16){
-        		if (hours2 <= 17){
-        			view.setColor(0xFFFFFF);
-        		}
-        		if (hours2 >= 18){
-        			if (hours2 <= 19){
-        				view.setColor(0x000000);
-        			}
-        		}
-        		if (hours2 >= 20){
-        			view.setColor(0xFFFFFF);
-        		}
-        }   
-        view = View.findDrawableById("mon");
-        if (hours2 <= 10){
-        		view.setColor(0xFFFFFF);
-        }
-        if (hours2 >= 10){
-        	if (hours2 << 12){
-        		view.setColor(0x000000);
-        	}
-        }      
-        if (hours2 >= 12){
-        	if (hours2 << 14){
-        		view.setColor(0x000000);
-        	}
-        }
-        if (hours2 >= 14){
-        	if (hours2 << 16){
-        		view.setColor(0x000000);
-        	}
-        } 
-        if (hours2 >= 16){
-        		if (hours2 <= 17){
-        			view.setColor(0xFFFFFF);
-        		}
-        		if (hours2 >= 18){
-        			if (hours2 <= 19){
-        				view.setColor(0x000000);
-        			}
-        		}
-        		if (hours2 >= 20){
-        			view.setColor(0xFFFFFF);
-        		}
-        }  
-        view.setText(dateString);
-        view = View.findDrawableById("stepinfoicon");
-        if (hours2 <= 10){
-        		view.setColor(0xFFFFFF);
-        }
-        if (hours2 >= 10){
-        	if (hours2 << 12){
-        		view.setColor(0x000000);
-        	}
-        }      
-        if (hours2 >= 12){
-        	if (hours2 << 14){
-        		view.setColor(0x000000);
-        	}
-        }
-        if (hours2 >= 14){
-        	if (hours2 << 16){
-        		view.setColor(0x000000);
-        	}
-        } 
-        if (hours2 >= 16){
-        		if (hours2 <= 17){
-        			view.setColor(0xFFFFFF);
-        		}
-        		if (hours2 >= 18){
-        			if (hours2 <= 19){
-        				view.setColor(0x000000);
-        			}
-        		}
-        		if (hours2 >= 20){
-        			view.setColor(0xFFFFFF);
-        		}
-        }  
-        view.setText(stepinfo);
-        view = View.findDrawableById("batticont");
-        if (hours2 <= 10){
-        		view.setColor(0xFFFFFF);
-        }
-        if (hours2 >= 10){
-        	if (hours2 << 12){
-        		view.setColor(0x000000);
-        	}
-        }      
-        if (hours2 >= 12){
-        	if (hours2 << 14){
-        		view.setColor(0x000000);
-        	}
-        }
-        if (hours2 >= 14){
-        	if (hours2 << 16){
-        		view.setColor(0x000000);
-        	}
-        } 
-        if (hours2 >= 16){
-        		if (hours2 <= 17){
-        			view.setColor(0xFFFFFF);
-        		}
-        		if (hours2 >= 18){
-        			if (hours2 <= 19){
-        				view.setColor(0x000000);
-        			}
-        		}
-        		if (hours2 >= 20){
-        			view.setColor(0xFFFFFF);
-        		}
-        } 
-        view.setText(batteryinfo);
         if (hours2 <= 10){
         	view = View.findDrawableById("footicon");
       		view.setLocation(33, 0);
       		view = View.findDrawableById("batticon");
       		view.setLocation(52, 23);
+      		if (scrwidth == 218){
+        		view = View.findDrawableById("footicon");
+      			view.setLocation(65, 5);
+      			view = View.findDrawableById("batticon");
+      			view.setLocation(80, 28);
+        	}
       		view = View.findDrawableById("footiconb");
       		view.setLocation(99999, 0);
       		view = View.findDrawableById("batticonb");
@@ -271,6 +188,12 @@ class DayShiftView extends Ui.WatchFace {
       		view.setLocation(33, 0);
       		view = View.findDrawableById("batticon");
       		view.setLocation(52, 23);
+      		if (scrwidth == 218){
+        		view = View.findDrawableById("footicon");
+      			view.setLocation(65, 5);
+      			view = View.findDrawableById("batticon");
+      			view.setLocation(80, 28);
+        	}
       		view = View.findDrawableById("footiconb");
       		view.setLocation(33999, 0);
       		view = View.findDrawableById("batticonb");
@@ -282,6 +205,12 @@ class DayShiftView extends Ui.WatchFace {
       				view.setLocation(33, 0);
       				view = View.findDrawableById("batticon");
       				view.setLocation(52, 23);
+      	      		if (scrwidth == 218){
+       	 				view = View.findDrawableById("footicon");
+      					view.setLocation(65, 5);
+      					view = View.findDrawableById("batticon");
+      					view.setLocation(80, 28);
+        			}
       				view = View.findDrawableById("footiconb");
       				view.setLocation(33999, 0);
       				view = View.findDrawableById("batticonb");
@@ -293,6 +222,12 @@ class DayShiftView extends Ui.WatchFace {
       					view.setLocation(33, 0);
       					view = View.findDrawableById("batticonb");
       					view.setLocation(52, 23);
+      					if (scrwidth == 218){
+       	 					view = View.findDrawableById("footiconb");
+      						view.setLocation(65, 5);
+      						view = View.findDrawableById("batticonb");
+      						view.setLocation(80, 28);
+        				}
       					view = View.findDrawableById("footicon");
       					view.setLocation(33999, 0);
       					view = View.findDrawableById("batticon");
@@ -304,6 +239,12 @@ class DayShiftView extends Ui.WatchFace {
       				view.setLocation(33, 0);
       				view = View.findDrawableById("batticon");
       				view.setLocation(52, 23);
+      				if (scrwidth == 218){
+       	 				view = View.findDrawableById("footicon");
+      					view.setLocation(65, 5);
+      					view = View.findDrawableById("batticon");
+      					view.setLocation(80, 28);
+        			}
       				view = View.findDrawableById("footiconb");
       				view.setLocation(33999, 0);
       				view = View.findDrawableById("batticonb");
@@ -312,82 +253,18 @@ class DayShiftView extends Ui.WatchFace {
         }  
       	if (hours2 <= 15){
       		if (hours2 >= 11){
+      		    if (scrwidth == 218){
+       	 			view = View.findDrawableById("footiconb");
+      				view.setLocation(65, 5);
+      				view = View.findDrawableById("batticonb");
+      				view.setLocation(80, 28);
+        		}
       			view = View.findDrawableById("footiconb");
       			view.setLocation(33, 0);
       			view = View.findDrawableById("batticonb");
       			view.setLocation(52, 23);
       		}
-      	}
-      	view = View.findDrawableById("seconds");
-      	if (hours2 <= 10){
-        		view.setColor(0xFFFFFF);
-        }
-        if (hours2 >= 10){
-        	if (hours2 << 12){
-        		view.setColor(0x000000);
-        	}
-        }      
-        if (hours2 >= 12){
-        	if (hours2 << 14){
-        		view.setColor(0x000000);
-        	}
-        }
-        if (hours2 >= 14){
-        	if (hours2 << 16){
-        		view.setColor(0x000000);
-        	}
-        } 
-        if (hours2 >= 16){
-        		if (hours2 <= 17){
-        			view.setColor(0xFFFFFF);
-        		}
-        		if (hours2 >= 18){
-        			if (hours2 <= 19){
-        				view.setColor(0x000000);
-        			}
-        		}
-        		if (hours2 >= 20){
-        			view.setColor(0xFFFFFF);
-        		}
-        } 
-        view = View.findDrawableById("colon");
-      	if (hours2 <= 10){
-        		view.setColor(0xFFFFFF);
-        }
-        if (hours2 >= 10){
-        	if (hours2 << 12){
-        		view.setColor(0x000000);
-        	}
-        }      
-        if (hours2 >= 12){
-        	if (hours2 << 14){
-        		view.setColor(0x000000);
-        	}
-        }
-        if (hours2 >= 14){
-        	if (hours2 << 16){
-        		view.setColor(0x000000);
-        	}
-        } 
-        if (hours2 >= 16){
-        		if (hours2 <= 17){
-        			view.setColor(0xFFFFFF);
-        		}
-        		if (hours2 >= 18){
-        			if (hours2 <= 19){
-        				view.setColor(0x000000);
-        			}
-        		}
-        		if (hours2 >= 20){
-        			view.setColor(0xFFFFFF);
-        		}
-        } 
-        if (App.getApp().getProperty("UseMilitaryFormat")) {
-        	view.setText("");
-        }
-        else{
-        	view.setText(":");
-        }
+      	}      	
         view = View.findDrawableById("seconds");
         if (App.getApp().getProperty("UseMilitaryFormat")) {
         	view.setText("");

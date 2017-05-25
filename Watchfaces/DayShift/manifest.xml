@@ -2,6 +2,10 @@
     <iq:application entry="DayShiftApp" id="701968706A7B441C91796A5C1692B6FB" launcherIcon="@Drawables.LauncherIcon" minSdkVersion="1.2.0" name="@Strings.AppName" type="watchface">
 
         <iq:products>
+            <iq:product id="fenix3"/>
+            <iq:product id="fenix3_hr"/>
+            <iq:product id="d2bravo"/>
+            <iq:product id="d2bravo_titanium"/>
             <iq:product id="vivoactive_hr"/>
         </iq:products>
 
