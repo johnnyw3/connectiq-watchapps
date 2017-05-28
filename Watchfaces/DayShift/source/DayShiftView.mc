@@ -77,10 +77,19 @@ class DayShiftView extends Ui.WatchFace {
         if (scrwidth == 218){
         	view.setLocation(75, 40);
         	view2.setLocation(150, 40);
-        	viewstep.setLocation(125, 5);
-        	viewbatt.setLocation(123, 23); 
+        	viewbatt.setLocation(125, 23);
+        	viewstep.setLocation(123, 5); 
         	viewsec.setLocation(193, 50);
         }
+        if (scrwidth == 240){
+        	view.setLocation(82, 90);
+        	view2.setLocation(160, 90);
+        	viewbatt.setLocation(125, 22);
+        	viewstep.setLocation(127, 1); 
+        	viewsec.setLocation(193, 55);
+			viewmon.setLocation(120, 198); 
+        	viewdate.setLocation(120, 175);        	
+        }        
         if (App.getApp().getProperty("UseMilitaryFormat")) {
         	viewcolon.setText("");
         }
@@ -167,7 +176,7 @@ class DayShiftView extends Ui.WatchFace {
         			viewcolon.setColor(0xFFFFFF);
         		}
         }    
-        if (hours2 <= 10){
+        if (hours2 <= 11){
         	view = View.findDrawableById("footicon");
       		view.setLocation(33, 0);
       		view = View.findDrawableById("batticon");
@@ -178,6 +187,12 @@ class DayShiftView extends Ui.WatchFace {
       			view = View.findDrawableById("batticon");
       			view.setLocation(80, 28);
         	}
+      		if (scrwidth == 240){
+        		view = View.findDrawableById("footicon");
+      			view.setLocation(65, 5);
+      			view = View.findDrawableById("batticon");
+      			view.setLocation(80, 28);
+        	}        	
       		view = View.findDrawableById("footiconb");
       		view.setLocation(99999, 0);
       		view = View.findDrawableById("batticonb");
@@ -194,6 +209,12 @@ class DayShiftView extends Ui.WatchFace {
       			view = View.findDrawableById("batticon");
       			view.setLocation(80, 28);
         	}
+      		if (scrwidth == 240){
+        		view = View.findDrawableById("footicon");
+      			view.setLocation(65, 5);
+      			view = View.findDrawableById("batticon");
+      			view.setLocation(80, 28);
+        	}        	      		
       		view = View.findDrawableById("footiconb");
       		view.setLocation(33999, 0);
       		view = View.findDrawableById("batticonb");
@@ -211,6 +232,12 @@ class DayShiftView extends Ui.WatchFace {
       					view = View.findDrawableById("batticon");
       					view.setLocation(80, 28);
         			}
+      	      		if (scrwidth == 240){
+       	 				view = View.findDrawableById("footicon");
+      					view.setLocation(65, 5);
+      					view = View.findDrawableById("batticon");
+      					view.setLocation(80, 28);
+        			}        			
       				view = View.findDrawableById("footiconb");
       				view.setLocation(33999, 0);
       				view = View.findDrawableById("batticonb");
@@ -228,6 +255,12 @@ class DayShiftView extends Ui.WatchFace {
       						view = View.findDrawableById("batticonb");
       						view.setLocation(80, 28);
         				}
+      					if (scrwidth == 240){
+       	 					view = View.findDrawableById("footiconb");
+      						view.setLocation(65, 5);
+      						view = View.findDrawableById("batticonb");
+      						view.setLocation(80, 28);
+        				}        				
       					view = View.findDrawableById("footicon");
       					view.setLocation(33999, 0);
       					view = View.findDrawableById("batticon");
@@ -245,6 +278,12 @@ class DayShiftView extends Ui.WatchFace {
       					view = View.findDrawableById("batticon");
       					view.setLocation(80, 28);
         			}
+      				if (scrwidth == 240){
+       	 				view = View.findDrawableById("footicon");
+      					view.setLocation(65, 5);
+      					view = View.findDrawableById("batticon");
+      					view.setLocation(80, 28);
+        			}        			
       				view = View.findDrawableById("footiconb");
       				view.setLocation(33999, 0);
       				view = View.findDrawableById("batticonb");
@@ -252,17 +291,23 @@ class DayShiftView extends Ui.WatchFace {
         		}
         }  
       	if (hours2 <= 15){
-      		if (hours2 >= 11){
+      		if (hours2 >= 10){
+      			view = View.findDrawableById("footiconb");
+      			view.setLocation(33, 0);
+      			view = View.findDrawableById("batticonb");
+      			view.setLocation(52, 23);
       		    if (scrwidth == 218){
        	 			view = View.findDrawableById("footiconb");
       				view.setLocation(65, 5);
       				view = View.findDrawableById("batticonb");
       				view.setLocation(80, 28);
         		}
-      			view = View.findDrawableById("footiconb");
-      			view.setLocation(33, 0);
-      			view = View.findDrawableById("batticonb");
-      			view.setLocation(52, 23);
+      		    if (scrwidth == 240){
+       	 			view = View.findDrawableById("footiconb");
+      				view.setLocation(65, 5);
+      				view = View.findDrawableById("batticonb");
+      				view.setLocation(80, 28);
+        		}        		
       		}
       	}      	
         view = View.findDrawableById("seconds");
