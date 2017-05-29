@@ -39,7 +39,6 @@ class DayShiftView extends Ui.WatchFace {
         var hours2 = clockTime.hour;
         var scrwidth = DevSys.screenWidth;
         var minString = Lang.format("$1$", [clockTime.min.format("%02d")]);
-        var hourString = Lang.format("$1$", [hours]);
         var dateString = Lang.format("$1$ $2$", [dateInfo.day_of_week, dateInfo.day]);
 		var monthString = Lang.format("$1$ $2$", [dateInfo.month, dateInfo.year]);
 		var batteryinfo = Lang.format("$1$%", [Sys.getSystemStats().battery.format("%02d")]);
@@ -57,6 +56,7 @@ class DayShiftView extends Ui.WatchFace {
                 hours = hours.format("%02d");
             }
         }
+        var hourString = Lang.format("$1$", [hours]);
         var timeString = Lang.format(timeFormat, [hours, clockTime.min.format("%02d")]);
 
         // Update the view
